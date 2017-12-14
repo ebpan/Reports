@@ -1,0 +1,11 @@
+EMPLID,LAST_NAME,FIRST_NAME,EMAIL1,EMAIL2,SIS_ID,USERNAME,AUTH_DATE,ROLES
+00123,Doe,John,email1@email.com,email2@email.com,32100,jdoe,2000-03-01,role1
+00123,Doe,John,email1@email.com,email2@email.com,32100,jdoe,2000-03-01,role2
+00123,Doe,John,email1@email.com,email2@email.com,32100,jdoe,2000-03-01,role3
+00124,Smith,Jim,email1@email.com,email2@email.com,42100,jsmith,2002-04-30,role1
+00124,Smith,Jim,email1@email.com,email2@email.com,42100,jsmith,2002-04-30,role2
+00125,Johnson,Bill,email1@email.com,email2@email.com,52100,bjohnson,2010-09-15,role1
+00125,Johnson,Bill,email1@email.com,email2@email.com,52100,bjohnson,2010-09-15,role2
+00125,Johnson,Bill,email1@email.com,email2@email.com,52100,bjohnson,2010-09-15,role3
+00125,Johnson,Bill,email1@email.com,email2@email.com,52100,bjohnson,2010-09-15,role4
+00125,Johnson,Bill,email1@email.com,email2@email.com,52100,bjohnson,2010-09-15,role5
