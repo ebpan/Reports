@@ -1,0 +1,4 @@
+ID|Last Name|First Name|Email1|Email2|ID2|Username|Date
+00123|Doe|John|email1@email.com|email2@email.com|32100|jdoe|2000-03-01|role1,role2,role3
+00124|Smith|Jim|email1@email.com|email2@email.com|42100|jsmith|2002-04-30|role1,role2
+00125|Johnson|Bill|email1@email.com|email2@email.com|52100|bjohnson|2010-09-15|role1,role2,role3,role4,role5
